@@ -1,0 +1,6 @@
+﻿  Sem2_Sorting_algorithms.cpp
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem2_Sorting_algorithms\Sem2_Sorting_algorithms.cpp(62,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem2_Sorting_algorithms\Sem2_Sorting_algorithms.cpp(63,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem2_Sorting_algorithms\Sem2_Sorting_algorithms.cpp(82,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem2_Sorting_algorithms\Sem2_Sorting_algorithms.cpp(89): warning C4717: 'mergeSort': recursive on all control paths, function will cause runtime stack overflow
+  Sem2_Sorting_algorithms.vcxproj -> D:\Projects\C++\FMI_SDA_course\Seminari\Sem2_Sorting_algorithms\x64\Debug\Sem2_Sorting_algorithms.exe
