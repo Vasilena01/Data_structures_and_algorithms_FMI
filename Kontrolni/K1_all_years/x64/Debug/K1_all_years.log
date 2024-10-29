@@ -1,0 +1,11 @@
+﻿  K1_all_years.cpp
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K1_all_years\2022_2023.h(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K1_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K1_all_years\2021-2022-1.h(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K1_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K1_all_years\CountingSort.h(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K1_all_years.cpp')
+  
+  K1_all_years.vcxproj -> D:\Projects\C++\FMI_SDA_course\Kontrolni\K1_all_years\x64\Debug\K1_all_years.exe
