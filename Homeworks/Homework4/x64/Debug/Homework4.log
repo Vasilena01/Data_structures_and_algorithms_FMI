@@ -1,0 +1,8 @@
+﻿  Homework4.cpp
+D:\Projects\C++\FMI_SDA_course\Homeworks\Homework4\Task1.h(50,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Homework4.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Homeworks\Homework4\Task3.h(81,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Homework4.cpp')
+  
+  Homework4.vcxproj -> D:\Projects\C++\FMI_SDA_course\Homeworks\Homework4\x64\Debug\Homework4.exe
