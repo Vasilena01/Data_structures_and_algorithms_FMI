@@ -1,0 +1,8 @@
+﻿  Homework5.cpp
+D:\Projects\C++\FMI_SDA_course\Homeworks\Homework5\Task3.h(35,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Homework5.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Homeworks\Homework5\Task3.h(73,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Homework5.cpp')
+  
+  Homework5.vcxproj -> D:\Projects\C++\FMI_SDA_course\Homeworks\Homework5\x64\Debug\Homework5.exe

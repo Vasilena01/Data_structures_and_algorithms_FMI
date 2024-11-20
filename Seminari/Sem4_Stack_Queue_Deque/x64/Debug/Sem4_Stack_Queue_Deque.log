@@ -1,0 +1,8 @@
+﻿  Sem4_Stack_Queue_Deque.cpp
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem4_Stack_Queue_Deque\AsteroidColision.h(46,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Sem4_Stack_Queue_Deque.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem4_Stack_Queue_Deque\NextGreaterElement.h(11,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Sem4_Stack_Queue_Deque.cpp')
+  
+  Sem4_Stack_Queue_Deque.vcxproj -> D:\Projects\C++\FMI_SDA_course\Seminari\Sem4_Stack_Queue_Deque\x64\Debug\Sem4_Stack_Queue_Deque.exe
