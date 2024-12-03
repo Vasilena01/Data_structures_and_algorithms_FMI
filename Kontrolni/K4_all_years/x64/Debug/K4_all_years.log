@@ -1,0 +1,5 @@
+﻿  K4_all_years.cpp
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K4_all_years\2023_2024.h(13,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'K4_all_years.cpp')
+  
+  K4_all_years.vcxproj -> D:\Projects\C++\FMI_SDA_course\Kontrolni\K4_all_years\x64\Debug\K4_all_years.exe

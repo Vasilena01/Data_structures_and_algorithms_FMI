@@ -32,5 +32,11 @@
     <ClInclude Include="UniquePaths2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SumCoins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HouseRobber3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

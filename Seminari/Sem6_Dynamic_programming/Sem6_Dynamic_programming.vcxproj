@@ -130,8 +130,10 @@
     <ClCompile Include="Sem6_Dynamic_programming.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="HouseRobber3.h" />
     <ClInclude Include="MInCostClimbingStairs_iterative.h" />
     <ClInclude Include="MinCostClimbingStairs_recursion.h" />
+    <ClInclude Include="SumCoins.h" />
     <ClInclude Include="UniquePaths.h" />
     <ClInclude Include="UniquePaths2.h" />
   </ItemGroup>
