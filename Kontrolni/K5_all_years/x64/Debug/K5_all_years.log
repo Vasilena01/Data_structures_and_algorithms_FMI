@@ -1,0 +1,23 @@
+﻿  K5_all_years.cpp
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2022-2023.h(19,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2022-2023.h(42,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2022-2023.h(43,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2020-2021.h(32,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2020-2021.h(32,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2020-2021.h(33,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\2020-2021.h(33,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'K5_all_years.cpp')
+  
+  K5_all_years.vcxproj -> D:\Projects\C++\FMI_SDA_course\Kontrolni\K5_all_years\x64\Debug\K5_all_years.exe
