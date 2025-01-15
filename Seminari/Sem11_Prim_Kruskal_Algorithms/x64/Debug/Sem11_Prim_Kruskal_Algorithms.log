@@ -1,0 +1,8 @@
+﻿  Sem11_Prim_Kruskal_Algorithms.cpp
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem11_Prim_Kruskal_Algorithms\findMinPathBetweenAllNodes.h(64,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Sem11_Prim_Kruskal_Algorithms.cpp')
+  
+D:\Projects\C++\FMI_SDA_course\Seminari\Sem11_Prim_Kruskal_Algorithms\findMinPathBetweenAllNodes.h(135,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Sem11_Prim_Kruskal_Algorithms.cpp')
+  
+  Sem11_Prim_Kruskal_Algorithms.vcxproj -> D:\Projects\C++\FMI_SDA_course\Seminari\Sem11_Prim_Kruskal_Algorithms\x64\Debug\Sem11_Prim_Kruskal_Algorithms.exe

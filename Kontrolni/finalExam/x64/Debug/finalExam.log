@@ -1,0 +1,5 @@
+﻿  finalExam.cpp
+D:\Projects\C++\FMI_SDA_course\Kontrolni\finalExam\2022-2023.h(64,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'finalExam.cpp')
+  
+  finalExam.vcxproj -> D:\Projects\C++\FMI_SDA_course\Kontrolni\finalExam\x64\Debug\finalExam.exe

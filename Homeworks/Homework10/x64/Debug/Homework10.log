@@ -1,0 +1,5 @@
+﻿  Homework10.cpp
+D:\Projects\C++\FMI_SDA_course\Homeworks\Homework10\minKgToLooseInKTime.h(62,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Homework10.cpp')
+  
+  Homework10.vcxproj -> D:\Projects\C++\FMI_SDA_course\Homeworks\Homework10\x64\Debug\Homework10.exe
