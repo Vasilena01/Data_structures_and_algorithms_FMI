@@ -1,0 +1,7 @@
+Wed - Sorting alg (counting sort), Search alg (jump search), Linked-list
+Th - Queue&Stack (sliding window, deque), Bst (insert, remove, contains) dfs/bfs
+Fr - Dynamic programming (praktikum all tasks), Hash-tables(for theory: avl trees, red/black tree)
+Sat - pq, graph - bfs, dfs, topological sort
+Sun - minPathLen(dijkstra/bellman-ford), MST(prim/kruskal), Ojler/Hamilton path implementation
+Mon - Tasks from past years
+Tue - Tasks from past years
